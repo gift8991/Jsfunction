@@ -1,2 +1,1 @@
-# Jsfunction
-My function in Javascript
+My first Js file
